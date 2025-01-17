@@ -4,6 +4,8 @@
 Author: Zheng Cao  
 License: [MIT License](LICENSE)
 
+Special thanks to Professor John Miller and many students from the course as contributors.
+
 ---
 
 ## Overview
